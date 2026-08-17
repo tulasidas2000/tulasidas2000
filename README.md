@@ -8,6 +8,22 @@ SQL, Excel, Pandas, Power BI and Tableau.
 I enjoy solving programming problems, cleaning messy data, building useful
 tools and explaining technical results clearly.
 
+## What I Care About
+
+- Writing readable and maintainable Python
+- Testing important behavior
+- Building reproducible data analysis
+- Explaining technical ideas clearly
+- Learning through practical projects
+
+## Currently Improving
+
+- Python application architecture
+- SQL query design
+- Data cleaning with Pandas
+- Dashboard storytelling
+- Open-source collaboration
+
 ## Currently Learning
 
 - Python programming
